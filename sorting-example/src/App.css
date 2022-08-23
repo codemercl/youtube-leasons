@@ -1,0 +1,44 @@
+body {
+  background-color: #121635;
+  max-width: 900px;
+  margin: 0 auto;
+  font-size: 12px;
+  padding: 0 20px;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.head {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  background-color: #0b0f2c;
+  color: rgb(219, 209, 252);
+  padding: 0 50px;
+  border-radius: 5px;
+}
+
+.head > p {
+  transition: all 0.2s;
+}
+
+.head > p:hover {
+  cursor: pointer;
+  color: #fff;
+}
+
+.body > div {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  background-color: #0f132f;
+  color: #fff;
+  padding: 0 50px;
+  border-radius: 5px;
+  margin-top: 5px;
+  cursor: pointer;
+}
+
+.body > div:hover {
+  background-color: #121635;
+}

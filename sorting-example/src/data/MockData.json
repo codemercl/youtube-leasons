@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "country": "USA",
+    "email": "dammy@gmail.com",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "name": "Saydie",
+    "country": "Canada",
+    "email": "saddi@gmail.com",
+    "gender": "Femaly"
+  },
+  {
+    "id": 3,
+    "name": "Bjorn",
+    "country": "Norway",
+    "email": "ddjorny@gmail.com",
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "name": "Jack ",
+    "country": "GB",
+    "email": "jackie.33@gmail.com",
+    "gender": "Male"
+  },
+  {
+    "id": 5,
+    "name": "Thomas",
+    "country": "Danish",
+    "email": "tom.1333@gmail.com",
+    "gender": "Male"
+  }
+]
