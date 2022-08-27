@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/youtube-leasons/static/css/main.7111344f.css",
+    "main.js": "/youtube-leasons/static/js/main.650f3cc8.js",
+    "index.html": "/youtube-leasons/index.html",
+    "main.7111344f.css.map": "/youtube-leasons/static/css/main.7111344f.css.map",
+    "main.650f3cc8.js.map": "/youtube-leasons/static/js/main.650f3cc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7111344f.css",
+    "static/js/main.650f3cc8.js"
+  ]
+}
